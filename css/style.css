@@ -107,23 +107,7 @@ img{
 		transform: translateX(-220%);
 	}
 }
-/* footer{
-	display: flex;
-	align-items: center;
-	text-align: center;
-	height: 80px;
-	color: white;
-background-color: black;
-}
-footer h1{
-	margin-left: 45%;
-	padding:10px 20px;
-}
-footer h1:hover{
-	padding:10px 20px;
-	background-color: red;
-	border-radius: 10px;
-} */
+
 @media screen and (max-width:1200px){
 	.content{
 		width: 100%;
